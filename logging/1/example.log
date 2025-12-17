@@ -1,0 +1,5 @@
+DEBUG:root:디버그
+INFO:root:알림
+WARNING:root:경고
+ERROR:root:오류
+CRITICAL:root:중요
